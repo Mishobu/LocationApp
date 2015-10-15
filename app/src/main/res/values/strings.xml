@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Location App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Location App</string>
+    <string name="latitudeLabel">Latitud</string>
+    <string name="LongitudeLabel">Longitude</string>
+    <string name="providerLabel">Provider</string>
+    <string name="accuracyLabel">Accuracy</string>
+    <string name="metersUnit">Meters</string>
+    <string name="timeToFixLabel">Time to Fix</string>
+    <string name="secondsUnit">Seconds</string>
+    <string name="enabledProvidersLabel">Providers</string>
+    <string name="changeLocationProvidersSettingsText">Change Location</string>
+    <string name="showPosition">Show on Map</string>
+</resources>
